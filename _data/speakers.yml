@@ -3,9 +3,10 @@ id: 3
 name: "Max"
 surname: "Michels"
 company: "Google"
-title: "Software engineer"
+title: "Software Engineer"
 bio: "Max is true technology enthusiast, who loves open source."
-#  thumbnailUrl: DawidOstrowski.jpg
-#  rockstar: true
-#  social: 
- - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+thumbnailUrl: maxmichels.jpg
+rockstar: true
+social: 
+ - {name: "twitter", link: "https://twitter.com/stadtlegende"}
+ - {name: "github", link: "https://github.com/mxm"}
