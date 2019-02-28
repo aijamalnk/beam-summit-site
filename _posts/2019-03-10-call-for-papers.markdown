@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2019-03-10 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+Apache Beam Summit Europe 2019 will be held 19-20th of June in beautiful city of Berlin. If you want to be part of this great event as a speaker you are in the right place!
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Presenters – who should speak at the Apache Beam Summit?
 
 * developers (freelance and hired)
 * companies developing software (apps, tools, frameworks etc.)
@@ -18,7 +18,7 @@ If you belong to one of those groups you are cordially invited to submit a talk 
 #### Themes and topics – what do we expect?
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
-##### Android
+##### Beam in Open Source
 
 __Google I/O 2014__
 
@@ -56,12 +56,12 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+#### Please submit your proposals [here](https://forms.gle/o9kquPmb5jCLs4gh7).
+__Deadline__ is April 1, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until April 10, 2019.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [xxx@](mailto:devfest@gdg.org.ua)
