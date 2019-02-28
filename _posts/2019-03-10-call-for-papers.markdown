@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2019-03-10 09:00:00
+date:   2019-02-25 09:00:00
 isStaticPost: false
 ---
 Apache Beam Summit Europe 2019 will be held 19-20th of June in beautiful city of Berlin. If you want to be part of this great event as a speaker you are in the right place!
